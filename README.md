@@ -4,9 +4,9 @@ Tic Tac Toe using plain JavaScript.
 
 # Dependencies
 
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 # Deploy
 
